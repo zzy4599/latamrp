@@ -1,0 +1,34 @@
+*{
+
+    font-family: sans-serif;
+    color: white;
+    background-color: #00a2ff;
+    font-weight: bolder;
+}
+body{
+    width: 90%;
+    margin: auto;
+   
+}
+.header{ 
+    margin: auto;
+    width: 100%;
+    text-align: center;
+}
+li {
+    padding: 5px;
+}
+.header h2 {
+    font-size: 30px;
+}
+.logo {
+    width: 30%;
+}
+.normativa{
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 5px;
+    padding: 5px;
+}
+h2 {
+    text-align: center;
+}
